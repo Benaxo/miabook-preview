@@ -72,24 +72,16 @@ The project is organized around a single backend that serves both the public cli
 
 ## Screenshots
 
-![Capture 1](./Capture%20d'écran%202025-12-02%20161436.png)
+### Backoffice overview
 
-![Capture 2](./Capture%20d'écran%202025-12-02%20161519.png)
+![Backoffice_Tableau_de_bord](./Capture%20d'écran%202025-12-02%20161544.png)
 
-![Capture 3](./Capture%20d'écran%202025-12-02%20161544.png)
+![Backoffice_Analytics](./Capture%20d'écran%202025-12-02%20161602.png)
 
-![Capture 4](./Capture%20d'écran%202025-12-02%20161602.png)
+![Backoffice_books](./Capture%20d'écran%202025-12-02%20161602.png)
 
-
-## What I Learned
-
-- **Designing an end‑to‑end AI product**: from prompt design to error handling and recovery for long‑running book generations.
-- **Building a scalable backend**: job queues, WebSocket/SSE updates, and idempotent APIs around external services (OpenAI, payments).
-- **Advanced SQL analytics**: custom queries for costs, generations, revenues, funnels and cart abandonment, exposed via clean REST APIs.
-- **Fine‑grained access & limits**: user/group/individual limit system with daily reset and premium tiers.
-- **Production‑grade integrations**: payments (Monetico), S3 storage, Firebase auth and email delivery in a cohesive architecture.
+![Book_Modal](./book_modal.png)
 
 ## Links
 
 - **Demo**: https://www.miabook.fr/
-- **Portfolio**: 
