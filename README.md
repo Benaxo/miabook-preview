@@ -72,7 +72,14 @@ The project is organized around a single backend that serves both the public cli
 
 ## Screenshots
 
-(Add images here)
+![Capture 1](./docs/Capture%20d'écran%202025-12-02%20161436.png)
+
+![Capture 2](./docs/Capture%20d'écran%202025-12-02%20161519.png)
+
+![Capture 3](./docs/Capture%20d'écran%202025-12-02%20161544.png)
+
+![Capture 4](./docs/Capture%20d'écran%202025-12-02%20161602.png)
+
 
 ## What I Learned
 
