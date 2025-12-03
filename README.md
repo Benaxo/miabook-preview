@@ -16,7 +16,7 @@ A production web platform that generates fully personalized children’s books w
 
 - **Frontend**:
   - React (main Miabook client)
-  - React (internal admin / dashboard)
+  - React (internal admin / backoffice)
 
 - **Backend**:
   - Node.js, Express
@@ -51,7 +51,7 @@ The project is organized around a single backend that serves both the public cli
                     │
      Admin HTTPS    │
           ┌─────────┴────────────┐
-          │  Admin Dashboard     │
+          │      Backoffice      │
           │  (Back‑office React) │
           └─────────▲────────────┘
                     │
@@ -84,4 +84,4 @@ The project is organized around a single backend that serves both the public cli
 
 ## Links
 
-- **Demo**: https://www.miabook.fr/
+- **Frontend**: https://www.miabook.fr/
